@@ -1,0 +1,33 @@
+Diaghilev Mask Installation
+
+An installation by Hellicar&Lewis for the Diaghilev show at the VAM. In collaboration with the Education department at the Victoria and Albert Museum.
+
+Server app for displaying images
+Drawing app for drawing masks
+Client app for generating masks and grabs
+
+Compatible with of_preRelease_v0061_osxSL_FAT
+
+http://openframeworks.cc
+http://openframeworks.cc/download
+
+Thanks to the whole OpenFrameworks community.
+
+Uses:
+
+ofxCvHaarFinder
+Originally written by charli_e, adapted from code by stefanix.
+Completely rewritten by Kyle Mcdonald. opencv hack by Theo Watson.
+See the discussion for more info:
+http://www.openframeworks.cc/forum/viewtopic.php?f=10&t=2006
+http://www.kylemcdonald.net/
+http://code.google.com/p/kyle/
+
+Aubio driven audio input by Zach Lieberman from his AVSYS class
+http://thesystemis.com/
+http://visiblevisible.org/teaching/avsys/blog/
+
+Draws on:
+
+ofxMultitouchActions by Hugues Bruyère
+http://code.google.com/p/smallfly/downloads/list
